@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FrontendTest/static/css/main.9a3ebe6a.chunk.css",
+    "main.css": "/FrontendTest/static/css/main.fc0f1051.chunk.css",
     "main.js": "/FrontendTest/static/js/main.faac8e6e.chunk.js",
     "main.js.map": "/FrontendTest/static/js/main.faac8e6e.chunk.js.map",
     "runtime-main.js": "/FrontendTest/static/js/runtime-main.39d2ba21.js",
@@ -10,7 +10,7 @@
     "static/js/3.795f4d99.chunk.js": "/FrontendTest/static/js/3.795f4d99.chunk.js",
     "static/js/3.795f4d99.chunk.js.map": "/FrontendTest/static/js/3.795f4d99.chunk.js.map",
     "index.html": "/FrontendTest/index.html",
-    "static/css/main.9a3ebe6a.chunk.css.map": "/FrontendTest/static/css/main.9a3ebe6a.chunk.css.map",
+    "static/css/main.fc0f1051.chunk.css.map": "/FrontendTest/static/css/main.fc0f1051.chunk.css.map",
     "static/js/2.fbfb07ca.chunk.js.LICENSE.txt": "/FrontendTest/static/js/2.fbfb07ca.chunk.js.LICENSE.txt",
     "static/media/Creativity (2).77f9f1b1.gif": "/FrontendTest/static/media/Creativity (2).77f9f1b1.gif",
     "static/media/google.6d4dfba8.jpg": "/FrontendTest/static/media/google.6d4dfba8.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.39d2ba21.js",
     "static/js/2.fbfb07ca.chunk.js",
-    "static/css/main.9a3ebe6a.chunk.css",
+    "static/css/main.fc0f1051.chunk.css",
     "static/js/main.faac8e6e.chunk.js"
   ]
 }
