@@ -1,0 +1,90 @@
+.row{
+    height: 100vh;
+    padding-left: 5%;
+}
+.text{
+    padding-top: 8%;
+    animation: moveright 1s linear 1;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+    animation-delay: .5s;
+}
+@keyframes moveright{
+    0%{
+        transform: translateX(-100px);
+        visibility: visible;
+    }
+    100%{
+        transform: translateX(0);
+        visibility: visible;
+    }
+}
+.text h1{
+    font-size: 80px;
+    font-weight: bolder;
+}
+.text p{
+    margin-top: 5%;
+}
+.buttons{
+    margin-top: 5%;
+}
+.buttons .start{
+    padding: 12px 28px;
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+    margin-right: 30px;
+}
+.buttons .video{
+    color: blue;
+    font-size: 18px;
+}
+.brand{
+    margin-top: 7%;
+    animation: zoomin 1s linear 1;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+    animation-delay: 1.5s;
+}
+@keyframes zoomin{
+    0%{
+        transform: scale(0.5);
+        visibility: visible;
+    }
+    100%{
+        transform: scale(1);
+        visibility: visible;
+    }
+}
+.brand .logo{
+    width: 90px;
+    height: 50px;
+    padding-right: 20px;
+}
+.logo2{
+    width: 90px;
+    height: 50px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+.image{
+    animation: zoomin 1s linear 1;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+    animation-delay: 1s;
+}
+@keyframes zoomin{
+    0%{
+        transform: scale(0.5);
+        visibility: visible;
+    }
+    100%{
+        transform: scale(1);
+        visibility: visible;
+    }
+}
+.image img{
+    width: 600px;
+    height: 600px;
+}
